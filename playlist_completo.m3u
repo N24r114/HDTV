@@ -1,0 +1,243 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pe#a-e-mundo" tvg-name="A&E HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/A&E%20HD.png" group-title="-",A&E HD
+http://190.234.82.143:5050/play/a0an/index.m3u8
+#EXTINF:-1 tvg-id="pe#space" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Space%20HD.png" group-title="-",AMC HD
+http://190.234.82.143:5050/play/a0cg/index.m3u8
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es" tvg-name="ATRES SERIES HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ATRES%20SERIES%20HD.png" group-title="-",ATRES SERIES HD
+http://190.234.82.143:5050/play/a0bf/index.m3u8
+#EXTINF:-1 tvg-id="lch2205" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ATV.png" group-title="-",ATV
+http://190.234.82.143:5050/play/a08e/index.m3u8
+#EXTINF:-1 tvg-id="lch2228" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/axn%20HD.png" group-title="-",AXN HD
+http://190.234.82.143:5050/play/a0av/index.m3u8
+#EXTINF:-1 tvg-id="lch6313" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Adult%20Swim.png" group-title="-",Adult Swim
+http://190.234.82.143:5050/play/a08k/index.m3u8
+#EXTINF:-1 tvg-id="lch2202" tvg-name="America TV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/America%20TV%20HD.png" group-title="-",America TV HD
+http://190.234.82.143:5050/play/a075/index.m3u8
+#EXTINF:-1 tvg-id="lch3091" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Animal%20Planet%20HD.png" group-title="-",Animal Planet HD
+http://190.234.82.143:5050/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="pe#bethel" tvg-name="BETHEL TV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/BETHEL%20TV.png" group-title="-",BETHEL TV
+http://190.234.82.143:5050/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="-",BUENAZA TV
+http://190.234.82.143:5050/play/a0da/index.m3u8
+#EXTINF:-1 tvg-id="lch2491" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Baby%20TV.png" group-title="-",Baby TV
+http://190.234.82.143:5050/play/a09r/index.m3u8
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-name="CHV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/CHV%20HD.png" group-title="-",CHV HD
+http://190.234.82.143:5050/play/a0b6/index.m3u8
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-name="CNN Chile" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/CNN%20Chile.png" group-title="-",CNN Chile
+http://190.234.82.143:5050/play/a096/index.m3u8
+#EXTINF:-1 tvg-name="CNN Espaæol" group-title="-",CNN Espaæol
+http://190.234.82.143:5050/play/a09y/index.m3u8
+#EXTINF:-1 group-title="-",CNN International
+http://190.234.82.143:5050/play/a09n/index.m3u8
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13 HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Canal%2013%20HD.png" group-title="-",Canal 13 HD
+http://190.234.82.143:5050/play/a0c0/index.m3u8
+#EXTINF:-1 tvg-name="Canal N" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Canal%201.png" group-title="-",Canal N
+http://190.234.82.143:5050/play/a0co/index.m3u8
+#EXTINF:-1 tvg-id="sv#cartoon-network" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/cartoon-network.png" group-title="-",Cartoon Network HD
+http://190.234.82.143:5050/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-id="pe#boomerang-cartoon" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Cartoonito.png" group-title="-",Cartoonito
+http://190.234.82.143:5050/play/a07e/index.m3u8
+#EXTINF:-1 tvg-id="lch2249" tvg-name="Cinecanal HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Cinecanal%20HD.png" group-title="-",Cinecanal HD
+http://190.234.82.143:5050/play/a0as/index.m3u8
+#EXTINF:-1 tvg-id="lch2250" tvg-name="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Cinemax%20HD.png" group-title="-",Cinemax HD
+http://190.234.82.143:5050/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id="lch2328" tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Comedy%20Central%20HD.png" group-title="-",Comedy Central HD
+http://190.234.82.143:5050/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="-",Cristovisiðn
+http://190.234.82.143:5050/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="-",DQD TV
+http://190.234.82.143:5050/play/a0d7/index.m3u8
+#EXTINF:-1 tvg-name="DW Espaæol" group-title="-",DW Espaæol
+http://190.234.82.143:5050/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De PelŦcula" group-title="-",De PelŦcula
+http://190.234.82.143:5050/play/a086/index.m3u8
+#EXTINF:-1 tvg-id="lch2268" tvg-name="Discovery Channel  HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20Channel%20HD.png" group-title="-",Discovery Channel  HD
+http://190.234.82.143:5050/play/a0al/index.m3u8
+#EXTINF:-1 tvg-id="lch2354" tvg-name="Discovery H&H HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20H&H%20HD.png" group-title="-",Discovery H&H HD
+http://190.234.82.143:5050/play/a0b3/index.m3u8
+#EXTINF:-1 tvg-id="pe#discovery-kids" tvg-name="Discovery Kids HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20Kids%20HD.png" group-title="-",Discovery Kids HD
+http://190.234.82.143:5050/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-id="lch2273" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20Science%20HD.png" group-title="-",Discovery Science
+http://190.234.82.143:5050/play/a07i/index.m3u8
+#EXTINF:-1 tvg-id="lch2343" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20Theater%20HD.png" group-title="-",Discovery Theater HD
+http://190.234.82.143:5050/play/a0b4/index.m3u8
+#EXTINF:-1 tvg-id="lch2275" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20Turbo.png" group-title="-",Discovery Turbo
+http://190.234.82.143:5050/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="lch2275" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20Turbo.png" group-title="-",Discovery Turbo
+http://190.234.82.143:5050/play/a0ab/index.m3u8
+#EXTINF:-1 tvg-id="lch2353" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20World%20HD.png" group-title="-",Discovery World HD
+http://190.234.82.143:5050/play/a0c7/index.m3u8
+#EXTINF:-1 tvg-id="lch2268" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Discovery%20Channel%20HD.png" group-title="-",Disney Channel
+http://190.234.82.143:5050/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="lch5606" tvg-name="Disney HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Disney%20HD.png" group-title="-",Disney HD
+http://190.234.82.143:5050/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="lch2291" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Disney%20Junior.png" group-title="-",Disney Junior
+http://190.234.82.143:5050/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-name="E! Entertainment TV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Entertaiment%20HD.png" group-title="-",E! Entertainment TV
+http://190.234.82.143:5050/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="lch2297" tvg-name="ESPN 2 HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%202%20HD.png" group-title="-",ESPN 2 HD
+http://190.234.82.143:5050/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-id="lch2297" tvg-name="ESPN 2 HD b" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%202%20HD.png" group-title="-",ESPN 2 HD b
+http://190.234.82.143:5050/play/a0b9/index.m3u8
+#EXTINF:-1 tvg-id="lch2776" tvg-name="ESPN 3 HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%203%20HD.png" group-title="-",ESPN 3 HD
+http://190.234.82.143:5050/play/a0ca/index.m3u8
+#EXTINF:-1 tvg-id="lch2813" tvg-name="ESPN 4HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%204HD.png" group-title="-",ESPN 4HD
+http://190.234.82.143:5050/play/a0ay/index.m3u8
+#EXTINF:-1 tvg-id="lch5615" tvg-name="ESPN 5HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%205HD.png" group-title="-",ESPN 5HD
+http://190.234.82.143:5050/play/a0c2/index.m3u8
+#EXTINF:-1 tvg-id="lch2296" tvg-name="ESPN 6HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%206HD.png" group-title="-",ESPN 6HD
+http://190.234.82.143:5050/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="lch2295" tvg-name="ESPN 7HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%207HD.png" group-title="-",ESPN 7HD
+http://190.234.82.143:5050/play/a0c3/index.m3u8
+#EXTINF:-1 tvg-id="lch2775" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%20HD.png" group-title="-",ESPN HD
+http://190.234.82.143:5050/play/a0ch/index.m3u8
+#EXTINF:-1 tvg-id="lch2775" tvg-name="ESPN HD b" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%20HD.png" group-title="-",ESPN HD b
+http://190.234.82.143:5050/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="lch2813" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ESPN%20Premium%20HD.png" group-title="-",ESPN Premium HD
+http://190.234.82.143:5050/play/a078/index.m3u8
+#EXTINF:-1 tvg-id="lch2492" tvg-name="El Gourmet HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/El%20Gourmet%20HD.png" group-title="-",El Gourmet HD
+http://190.234.82.143:5050/play/a0ap/index.m3u8
+#EXTINF:-1 tvg-id="film_and_arts" tvg-name="Film&Arts" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Film&Arts.png" group-title="-",Film&Arts
+http://190.234.82.143:5050/play/a07p/index.m3u8
+#EXTINF:-1 tvg-id="lch5593" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Food%20Network%20HD.png" group-title="-",Food Network HD
+http://190.234.82.143:5050/play/a074/index.m3u8
+#EXTINF:-1 tvg-id="lch2215" tvg-name="GLOBAL" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/GLOBAL.png" group-title="-",GLOBAL
+http://190.234.82.143:5050/play/a0cq/index.m3u8
+#EXTINF:-1 tvg-id="lch2215" tvg-name="GLOBAL" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/GLOBAL.png" group-title="-",GLOBAL
+http://190.234.82.143:5050/play/a08g/index.m3u8
+#EXTINF:-1 tvg-id="lch2298" tvg-name="Gol TV" group-title="-",Gol TV
+http://190.234.82.143:5050/play/a08s/index.m3u8
+#EXTINF:-1 tvg-id="pe#golden-edge" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Golden%20Edge.png" group-title="-",Golden Edge
+http://190.234.82.143:5050/play/a082/index.m3u8
+#EXTINF:-1 tvg-id="pe#golden" tvg-name="Golden HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Golden%20HD.png" group-title="-",Golden HD
+http://190.234.82.143:5050/play/a07d/index.m3u8
+#EXTINF:-1 tvg-id="gt#hbo-2" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HBO%202.png" group-title="-",HBO 2
+http://190.234.82.143:5050/play/a088/index.m3u8
+#EXTINF:-1 tvg-id="lch6493" tvg-name="HBO Family HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HBO%20Family%20HD.png" group-title="-",HBO Family HD
+http://190.234.82.143:5050/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="co#hbo" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HBO%20HD.png" group-title="-",HBO HD
+http://190.234.82.143:5050/play/a0b0/index.m3u8
+#EXTINF:-1 tvg-name="HBO MUNDI" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HBO%20Mundi.png" group-title="-",HBO MUNDI
+http://190.234.82.143:5050/play/a08m/index.m3u8
+#EXTINF:-1 tvg-id="lch6492" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HBO%20PLUS.png" group-title="-",HBO Plus
+http://190.234.82.143:5050/play/a087/index.m3u8
+#EXTINF:-1 tvg-id="lch6495" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HBO%20Signature.png" group-title="-",HBO Signature
+http://190.234.82.143:5050/play/a08l/index.m3u8
+#EXTINF:-1 tvg-id="lch6496" tvg-name="HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HBO%20XTREME%20HD.png" group-title="-",HBO XTREME HD
+http://190.234.82.143:5050/play/a07b/index.m3u8
+#EXTINF:-1 tvg-id="lch5602" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HGTV.png" group-title="-",HGTV
+http://190.234.82.143:5050/play/a07q/index.m3u8
+#EXTINF:-1 tvg-name="HOLA TV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Hola%20TV%20HD.png" group-title="-",HOLA TV HD
+http://190.234.82.143:5050/play/a0bc/index.m3u8
+#EXTINF:-1 tvg-id="lch5602" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HGTV.png" group-title="-",HTV
+http://190.234.82.143:5050/play/a07t/index.m3u8
+#EXTINF:-1 tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/History%202.png" group-title="-",History 2
+http://190.234.82.143:5050/play/a07g/index.m3u8
+#EXTINF:-1 tvg-id="lch2269" tvg-name="History Channel HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/History%20Channel%20HD.png" group-title="-",History Channel HD
+http://190.234.82.143:5050/play/a0am/index.m3u8
+#EXTINF:-1 group-title="-",ID - Investigation Discovery
+http://190.234.82.143:5050/play/a09x/index.m3u8
+#EXTINF:-1 tvg-id="lch2327" tvg-name="ID HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ID%20HD.png" group-title="-",ID HD
+http://190.234.82.143:5050/play/a0aw/index.m3u8
+#EXTINF:-1 tvg-name="LIGA_1" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Liga%201%20HD.png" group-title="-",LIGA_1
+http://190.234.82.143:5050/play/a0d5/index.m3u8
+#EXTINF:-1 tvg-id="la_red_chile" tvg-name="La Red HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/La%20Red%20HD.png" group-title="-",La Red HD
+http://190.234.82.143:5050/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="lch6517" tvg-name="Las Estrellas HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/las%20estrellas%20HD.png" group-title="-",Las Estrellas HD
+http://190.234.82.143:5050/play/a076/index.m3u8
+#EXTINF:-1 tvg-id="lch2201" tvg-name="Latina HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Latina%20HD.png" group-title="-",Latina HD
+http://190.234.82.143:5050/play/a079/index.m3u8
+#EXTINF:-1 tvg-id="lch5703" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Love%20Nature%20HD.png" group-title="-",Love Nature
+http://190.234.82.143:5050/play/a0cr/index.m3u8
+#EXTINF:-1 tvg-id="lch2202" tvg-name="MEDIA TV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/America%20TV%20HD.png" group-title="-",MEDIA TV
+http://190.234.82.143:5050/play/a0d9/index.m3u8
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="MEGA HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/MEGA%20HD.png" group-title="-",MEGA HD
+http://190.234.82.143:5050/play/a0bh/index.m3u8
+#EXTINF:-1 tvg-id="lch2313" tvg-name="MTV 00s HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/MTV%20HD.png" group-title="-",MTV 00s HD
+http://190.234.82.143:5050/play/a0be/index.m3u8
+#EXTINF:-1 tvg-id="lch2313" tvg-name="MTV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/MTV%20HD.png" group-title="-",MTV HD
+http://190.234.82.143:5050/play/a0b1/index.m3u8
+#EXTINF:-1 tvg-name="MTV LIVE HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/MTV%20LIVE%20HD.png" group-title="-",MTV LIVE HD
+http://190.234.82.143:5050/play/a0c8/index.m3u8
+#EXTINF:-1 tvg-id="lch3300" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/MOVISTAR%20DEPORTES.png" group-title="-",Movistar Deportes
+http://190.234.82.143:5050/play/a0ck/index.m3u8
+#EXTINF:-1 tvg-id="mas_chic_latinoamerica" tvg-name="MÆsChic" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Mas%20Chic.png" group-title="-",MÆsChic
+http://190.234.82.143:5050/play/a07s/index.m3u8
+#EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN 24 Horas" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/NTN%2024%20Horas.png" group-title="-",NTN 24 Horas
+http://190.234.82.143:5050/play/a07u/index.m3u8
+#EXTINF:-1 tvg-id="lch2270" tvg-name="Nat Geo HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Nat%20Geo%20HD.png" group-title="-",Nat Geo HD
+http://190.234.82.143:5050/play/a0aq/index.m3u8
+#EXTINF:-1 tvg-id="lch2288" tvg-name="Nick HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Nick%20HD.png" group-title="-",Nick HD
+http://190.234.82.143:5050/play/a0bd/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.es" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Nick%20Jr.png" group-title="-",Nick Jr
+http://190.234.82.143:5050/play/a07f/index.m3u8
+#EXTINF:-1 tvg-id="lch3297" tvg-name="PLUS TV LIFE" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Plus%20TV%20Life.png" group-title="-",PLUS TV LIFE
+http://190.234.82.143:5050/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-id="lch2203" tvg-name="Panamericana" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Panamericana.png" group-title="-",Panamericana
+http://190.234.82.143:5050/play/a08c/index.m3u8
+#EXTINF:-1 tvg-id="lch2203" tvg-name="Panamericana" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Panamericana.png" group-title="-",Panamericana
+http://190.234.82.143:5050/play/a0cl/index.m3u8
+#EXTINF:-1 tvg-id="lch2333" tvg-name="Paramount HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Paramount%20HD.png" group-title="-",Paramount HD
+http://190.234.82.143:5050/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="lch5701" tvg-name="Pasiones HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Pasiones%20HD.png" group-title="-",Pasiones HD
+http://190.234.82.143:5050/play/a0b7/index.m3u8
+#EXTINF:-1 group-title="-",RADIO BETHEL
+http://190.234.82.143:5050/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="-",RADIO PBO
+http://190.234.82.143:5050/play/a0bn/index.m3u8
+#EXTINF:-1 tvg-id="lch2459" tvg-name="RPP" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/RPP.png" group-title="-",RPP
+http://190.234.82.143:5050/play/a08f/index.m3u8
+#EXTINF:-1 tvg-id="lch2459" tvg-name="RPP" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/RPP.png" group-title="-",RPP
+http://190.234.82.143:5050/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id="lch2227" tvg-name="STAR CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Star%20Channel%20HD.png" group-title="-",STAR CHANNEL HD
+http://190.234.82.143:5050/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="-",STUDIO TV
+http://190.234.82.143:5050/play/a0d8/index.m3u8
+#EXTINF:-1 tvg-id="cl#sony" tvg-name="Sony" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Sony%20HD.png" group-title="-",Sony
+http://190.234.82.143:5050/play/a0a1/index.m3u8
+#EXTINF:-1 tvg-id="cl#sony" tvg-name="Sony HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Sony%20HD.png" group-title="-",Sony HD
+http://190.234.82.143:5050/play/a0at/index.m3u8
+#EXTINF:-1 tvg-id="pe#space" tvg-name="Space HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Space%20HD.png" group-title="-",Space HD
+http://190.234.82.143:5050/play/a0ax/index.m3u8
+#EXTINF:-1 tvg-name="Stingray Concerts HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Stingray%20Concerts%20HD.png" group-title="-",Stingray Concerts HD
+http://190.234.82.143:5050/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="ar#studio-universal" tvg-name="Studio Universal HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Studio%20Universal%20HD.png" group-title="-",Studio Universal HD
+http://190.234.82.143:5050/play/a072/index.m3u8
+#EXTINF:-1 tvg-id="lch2227" tvg-name="Sun Channel HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Star%20Channel%20HD.png" group-title="-",Sun Channel HD
+http://190.234.82.143:5050/play/a0bi/index.m3u8
+#EXTINF:-1 tvg-id="lch2277" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/TLC.png" group-title="-",TCM
+http://190.234.82.143:5050/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="lch2277" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/TLC.png" group-title="-",TLC
+http://190.234.82.143:5050/play/a07h/index.m3u8
+#EXTINF:-1 tvg-id="lch2221" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/TNT%20HD.png" group-title="-",TNT HD
+http://190.234.82.143:5050/play/a0ar/index.m3u8
+#EXTINF:-1 tvg-id="lch2224" tvg-name="TNT Series HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/TNT%20Series%20HD.png" group-title="-",TNT Series HD
+http://190.234.82.143:5050/play/a0c5/index.m3u8
+#EXTINF:-1 tvg-name="TNT Sports Premiun HD" group-title="-",TNT Sports Premiun HD
+http://190.234.82.143:5050/play/a0b8/index.m3u8
+#EXTINF:-1 tvg-id="lch5666" tvg-name="TV PERU" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/TV%20PERU.png" group-title="-",TV PERU
+http://190.234.82.143:5050/play/a0cn/index.m3u8
+#EXTINF:-1 tvg-name="TV+ HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/TV+%20HD.png" group-title="-",TV+ HD
+http://190.234.82.143:5050/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="lch2205" tvg-name="TVE" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ATV.png" group-title="-",TVE
+http://190.234.82.143:5050/play/a08t/index.m3u8
+#EXTINF:-1 tvg-id="lch6304" tvg-name="TVN HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/TVN%20HD.png" group-title="-",TVN HD
+http://190.234.82.143:5050/play/a0b5/index.m3u8
+#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="Teen Nick" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Teen%20Nick.png" group-title="-",Teen Nick
+http://190.234.82.143:5050/play/a07n/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Telemundo.png" group-title="-",Telemundo
+http://190.234.82.143:5050/play/a07k/index.m3u8
+#EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Telenovelas" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Telenovelas.png" group-title="-",Telenovelas
+http://190.234.82.143:5050/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="lch5625" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Tooncast.png" group-title="-",Tooncast
+http://190.234.82.143:5050/play/a07o/index.m3u8
+#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/UNIVERSAL%20CHANNEL%20HD.png" group-title="-",UNIVERSAL CHANNEL HD
+http://190.234.82.143:5050/play/a0c1/index.m3u8
+#EXTINF:-1 group-title="-",USA
+http://190.234.82.143:5050/play/a081/index.m3u8
+#EXTINF:-1 tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/UNIVERSAL%20CRIME%20HD.png" group-title="-",Universal
+http://190.234.82.143:5050/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-name="Via X Esports" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Via%20X%20Esports.png" group-title="-",Via X Esports
+http://190.234.82.143:5050/play/a07z/index.m3u8
+#EXTINF:-1 tvg-id="lch2226" tvg-name="Warner Channel HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Warner%20Channel%20HD.png" group-title="-",Warner Channel HD
+http://190.234.82.143:5050/play/a0au/index.m3u8
