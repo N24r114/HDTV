@@ -1,9 +1,9 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="pe#a-e-mundo" tvg-name="A&E HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/A&E%20HD.png" group-title="-",A&E HD
 http://190.234.82.143:5050/play/a0an/index.m3u8
-#EXTINF:-1 tvg-id="cl#amc" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/AMC.png" group-title="-",AMC HD
+#EXTINF:-1 tvg-id="pe#space" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Space%20HD.png" group-title="-",AMC HD
 http://190.234.82.143:5050/play/a0cg/index.m3u8
-#EXTINF:-1 tvg-id="ar#atreseries" tvg-name="ATRES SERIES HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ATRES%20SERIES%20HD.png" group-title="-",ATRES SERIES HD
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="ATRES SERIES HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ATRES%20SERIES%20HD.png" group-title="-",ATRES SERIES HD
 http://190.234.82.143:5050/play/a0bf/index.m3u8
 #EXTINF:-1 tvg-id="lch2205" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/ATV.png" group-title="-",ATV
 http://190.234.82.143:5050/play/a08e/index.m3u8
@@ -97,7 +97,7 @@ http://190.234.82.143:5050/play/a070/index.m3u8
 http://190.234.82.143:5050/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="mx#el-gourmet" tvg-name="El Gourmet HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/El%20Gourmet%20HD.png" group-title="-",El Gourmet HD
 http://190.234.82.143:5050/play/a0ap/index.m3u8
-#EXTINF:-1 tvg-id="film_and_arts" tvg-name="Film&Arts" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Film&Arts.png" group-title="-",Film&Arts
+#EXTINF:-1 tvg-id="306" tvg-name="Film&Arts" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Film&Arts.png" group-title="-",Film&Arts
 http://190.234.82.143:5050/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="lch5593" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/Food%20Network%20HD.png" group-title="-",Food Network HD
 http://190.234.82.143:5050/play/a074/index.m3u8
@@ -131,7 +131,7 @@ http://190.234.82.143:5050/play/a07q/index.m3u8
 http://190.234.82.143:5050/play/a0bc/index.m3u8
 #EXTINF:-1 tvg-id="lch5602" tvg-name="HTV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/HGTV.png" group-title="-",HTV
 http://190.234.82.143:5050/play/a07t/index.m3u8
-#EXTINF:-1 tvg-id="ar#h2" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/History%202.png" group-title="-",History 2
+#EXTINF:-1 tvg-id="390" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/History%202.png" group-title="-",History 2
 http://190.234.82.143:5050/play/a07g/index.m3u8
 #EXTINF:-1 tvg-id="cl#history" tvg-name="History Channel HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/History%20Channel%20HD.png" group-title="-",History Channel HD
 http://190.234.82.143:5050/play/a0am/index.m3u8
@@ -233,7 +233,7 @@ http://190.234.82.143:5050/play/a07r/index.m3u8
 http://190.234.82.143:5050/play/a07o/index.m3u8
 #EXTINF:-1 tvg-id="pe#universal-channel" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/UNIVERSAL%20CHANNEL%20HD.png" group-title="-",UNIVERSAL CHANNEL HD
 http://190.234.82.143:5050/play/a0c1/index.m3u8
-#EXTINF:-1 tvg-id="737" group-title="-",USA
+#EXTINF:-1 group-title="-",USA
 http://190.234.82.143:5050/play/a081/index.m3u8
 #EXTINF:-1 tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/refs/heads/main/UNIVERSAL%20CRIME%20HD.png" group-title="-",Universal
 http://190.234.82.143:5050/play/a0bz/index.m3u8
