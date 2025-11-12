@@ -112,7 +112,7 @@ http://179.1.148.246:8888/play/a09r/index.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="GLOBAL.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/GLOBAL.png" group-title="-",GLOBAL
 http://179.1.148.246:8888/play/a0aj/index.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="GOLPERU HD.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/GOLPERU.png" group-title="-",GOL PERU
-http://179.1.148.246:8888/play/a0dc/index.m3u8
+http://38.199.6.1:17001/play/a05y/index.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="GOL TV HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Gol%20TV.png" group-title="-",Gol TV
 http://179.1.148.246:8888/play/a0aw/index.m3u8
 #EXTINF:-1 tvg-chno="59" tvg-id="Golden Edge.mx" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Golden%20Edge.png" group-title="-",Golden Edge
@@ -162,7 +162,7 @@ http://179.1.148.246:8888/play/a0fr/index.m3u8
 #EXTINF:-1 tvg-chno="81" tvg-id="MTV HD.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/MTV%20HD.png" group-title="-",MTV HD
 http://179.1.148.246:8888/play/a0c7/index.m3u8
 #EXTINF:-1 tvg-chno="82" tvg-id="M DEPORTES HD.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/MOVISTAR%20DEPORTES.png" group-title="-",Movistar Deportes
-http://179.1.148.246:8888/play/a06z/index.m3u8
+http://38.199.6.1:17001/play/a05j/index.m3u8
 #EXTINF:-1 tvg-chno="83" tvg-id="Mas Chic.co" group-title="-",MÆsChic
 http://179.1.148.246:8888/play/a09u/index.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-id="NTN24.co" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/NTN%2024%20Horas.png" group-title="-",NTN 24 Horas
@@ -241,3 +241,4 @@ http://179.1.148.246:8888/play/a07m/index.m3u8
 http://179.1.148.246:8888/play/a069/index.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="WARNER.ve" group-title="-",Warner TV HD
 http://179.1.148.246:8888/play/a0jh/index.m3u8
+
