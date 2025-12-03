@@ -45,8 +45,8 @@ http://190.108.89.228:8000/play/a07g/index.m3u8
 http://190.108.89.228:8000/play/a0e8/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Disney%20HD.png" group-title="-",Disney HD
 http://190.108.89.228:8000/play/a0dt/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Disney%20Junior.png" group-title="-",Disney Junior
-http://190.108.89.228:8000/play/a0f2/index.m3u8
+#EXTINF:-1 tvg-id="DISNEY JUNIOR HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Disney%20Junior.png" group-title="-",Disney Junior HD
+http://191.97.49.82:8001/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="ENLACE TBN.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ENLACE.png" group-title="-",ENLACE
 http://190.108.89.228:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2 HD.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%202.png" group-title="-",ESPN 2 HD
@@ -157,8 +157,8 @@ http://190.108.89.228:8000/play/a07p/index.m3u8
 http://190.108.89.228:8000/play/a09t/index.m3u8
 #EXTINF:-1 tvg-id="TV PERU HD.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV%20PERU.png" group-title="-",TV PERU
 http://190.108.89.228:8000/play/a0cv/index.m3u8
-#EXTINF:-1 tvg-id="TELEMUNDO HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Telemundo.png" group-title="-",Telemundo
-http://190.108.89.228:8000/play/a0g1/index.m3u8
+#EXTINF:-1 tvg-id="TELEMUNDO HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Telemundo.png" group-title="-",Telemundo HD
+http://179.49.202.35:8237/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="Tl Novelas.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Telenovelas.png" group-title="-",Telenovelas
 http://190.108.89.228:8000/play/a0d6/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL IPTV.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/UNIVERSAL%20CHANNEL.png" group-title="-",UNIVERSAL CHANNEL HD
@@ -169,3 +169,4 @@ http://190.108.89.228:8000/play/a062/index.m3u8
 http://190.108.89.228:8000/play/a0e3/index.m3u8
 #EXTINF:-1 tvg-id="DIRECTV SPORTS.ve" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/directv%20sport%201.png" group-title="-",directv sport 1
 http://190.108.89.228:8000/play/a05w/index.m3u8
+
