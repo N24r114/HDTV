@@ -72,7 +72,7 @@ http://190.238.77.59:8000/play/a1p2/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL HD.cl" group-title="-",Disney HD
 http://190.238.77.59:8000/play/a1j1/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR HD.cl" group-title="-",Disney Jr.
-http://190.238.77.59:8000/play/a1ey/index.m3u8
+http://191.97.49.82:8001/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia.mx" group-title="-",Distrito Comedia
 http://190.238.77.59:8000/play/a1d6/index.m3u8
 #EXTINF:-1 tvg-id="DEUTSCHE WELLE.pe" group-title="-",DW Espaæol
@@ -130,7 +130,7 @@ http://190.238.77.59:8000/play/a1g7/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2 HD.cl" group-title="-",HBO 2
 http://190.238.77.59:8000/play/a1d4/index.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS ESTE.cl" group-title="-",HBO Plus
-http://190.238.77.59:8000/play/a1pc/index.m3u8
+http://179.49.202.35:8237/play/a01b/index.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY.pe" group-title="-",HBO Family HD
 http://190.238.77.59:8000/play/a1h1/index.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME HD.cl" group-title="-",HBO Xtreme HD
@@ -228,7 +228,7 @@ http://190.238.77.59:8000/play/a1co/index.m3u8
 #EXTINF:-1 tvg-id="TELEFE HD.cl" group-title="-",TelefØ
 http://190.238.77.59:8000/play/a1f9/index.m3u8
 #EXTINF:-1 tvg-id="TELEMUNDO HD.cl" group-title="-",Telemundo
-http://190.238.77.59:8000/play/a1f6/index.m3u8
+http://179.49.202.35:8237/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="Tl Novelas.pe" group-title="-",Telenovelas
 http://190.238.77.59:8000/play/a1ks/index.m3u8
 #EXTINF:-1 tvg-id="TELESUR.pe" group-title="-",Telesur
@@ -261,5 +261,16 @@ http://190.238.77.59:8000/play/a1cw/index.m3u8
 http://190.238.77.59:8000/play/a1j5/index.m3u8
 #EXTINF:-1 tvg-id="WARNER.ve" group-title="-",Warner TV HD
 http://190.238.77.59:8000/play/a1hw/index.m3u8
-#EXTINF:-1 tvg-id="WILLAX TV HD.pe" group-title="-",WILLAX
-http://190.238.77.59:8000/play/a1le/index.m3u8
+#EXTINF:-1 tvg-id="Universal Cinema.uy" group-title="-",UNIVERSAL CINEMA ESTE HD
+http://179.49.202.35:8237/play/a06k/index.m3u8
+#EXTINF:-1 tvg-id="Universal Comedy.uy" group-title="-",UNIVERSAL COMEDY HD
+http://179.49.202.35:8237/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="Universal Crime.uy" group-title="-",UNIVERSAL CRIME HD
+http://179.49.202.35:8237/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="Universal Premiere.uy" group-title="-",UNIVERSAL PREMIERE HD
+http://179.49.202.35:8237/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="Universal Premiere.uy" group-title="-",UNIVERSAL PREMIERE 2 HD
+http://179.49.202.35:8237/play/a057/index.m3u8
+#EXTINF:-1 tvg-id="Universal Reality.uy" group-title="-",UNIVERSAL REALITY HD
+http://179.49.202.35:8237/play/a058/index.m3u8
+
