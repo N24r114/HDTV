@@ -10,7 +10,7 @@ http://38.7.101.90:8000/play/a1p2/index.m3u8
 #EXTINF:-1 group-title="-",ATV
 http://38.7.101.90:8000/play/a1o8/index.m3u8
 #EXTINF:-1 group-title="-",America TV HD
-http://38.7.101.90:8000/play/a1en/index.m3u8
+http://38.7.101.90:8000/play/a1zx/index.m3u8
 #EXTINF:-1 group-title="-",Animal Planet HD
 http://38.7.101.90:8000/play/a1fb/index.m3u8
 #EXTINF:-1 group-title="-",Antena 3
@@ -42,11 +42,11 @@ http://38.7.101.90:8000/play/a1ph/index.m3u8
 #EXTINF:-1 group-title="-",E! Entertainment TV
 http://38.7.101.90:8000/play/a1kc/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 2 HD
-http://38.7.101.90:8000/play/a1ek/index.m3u8
+http://38.7.101.90:8000/play/a1ev/index.m3u8
 #EXTINF:-1 group-title="-",ESPN 3 HD
 http://38.7.101.90:8000/play/a1zd/index.m3u8
 #EXTINF:-1 group-title="-",ESPN HD
-http://38.7.101.90:8000/play/a1nq/index.m3u8
+http://38.7.101.90:8000/play/a1f2/index.m3u8
 #EXTINF:-1 group-title="-",ESPN Premium HD
 http://38.7.101.90:8000/play/a1f6/index.m3u8
 #EXTINF:-1 group-title="-",El Gourmet HD
@@ -88,11 +88,9 @@ http://38.7.101.90:8000/play/a1xo/index.m3u8
 #EXTINF:-1 group-title="-",HGTV
 http://38.7.101.90:8000/play/a1kf/index.m3u8
 #EXTINF:-1 group-title="-",History 2
-http://38.7.101.90:8000/play/a1we/index.m3u8
-#EXTINF:-1 group-title="-",Las Estrellas HD
-http://38.7.101.90:8000/play/a1xm/index.m3u8
+http://38.7.101.90:8000/play/a1ow/index.m3u8
 #EXTINF:-1 group-title="-",Latina HD
-http://38.7.101.90:8000/play/a1zy/index.m3u8
+http://38.7.101.90:8000/play/a1eo/index.m3u8
 #EXTINF:-1 group-title="-",Lifetime
 http://38.7.101.90:8000/play/a1ki/index.m3u8
 #EXTINF:-1 group-title="-",MEGA HD
