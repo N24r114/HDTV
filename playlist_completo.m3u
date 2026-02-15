@@ -1,139 +1,50 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",A&E HD
-http://38.7.101.90:8000/play/a1yy/index.m3u8
-#EXTINF:-1 group-title="-",AMC HD
-http://38.7.101.90:8000/play/a1z4/index.m3u8
-#EXTINF:-1 group-title="-",AMC Series
-http://38.7.101.90:8000/play/a1p2/index.m3u8
-#EXTINF:-1 group-title="-",ATV
-http://38.7.101.90:8000/play/a1o8/index.m3u8
-#EXTINF:-1 group-title="-",America TV HD
+# Lista IPTV Final | Logos 100px + tvg-id | Repo: https://github.com/N24r114/tv-logos
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/America%20TV%20HD.png",America TV HD
 http://38.7.101.90:8000/play/a1zx/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet HD
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Animal%20Planet.png",Animal Planet HD
 http://38.7.101.90:8000/play/a1fb/index.m3u8
-#EXTINF:-1 group-title="-",Antena 3
-http://38.7.101.90:8000/play/a1od/index.m3u8
-#EXTINF:-1 group-title="-",BETHEL TV
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/BETHEL%20TV.png",BETHEL TV
 http://38.7.101.90:8000/play/a1xs/index.m3u8
-#EXTINF:-1 group-title="-",Baby TV
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Baby%20TV.png",Baby TV
 http://38.7.101.90:8000/play/a1k0/index.m3u8
-#EXTINF:-1 group-title="-",CGTN Es
-http://38.7.101.90:8000/play/a1oz/index.m3u8
-#EXTINF:-1 group-title="-",CHV HD
-http://38.7.101.90:8000/play/a1es/index.m3u8
-#EXTINF:-1 group-title="-",Comedy Central HD
-http://38.7.101.90:8000/play/a1yz/index.m3u8
-#EXTINF:-1 group-title="-",DHE HD
-http://38.7.101.90:8000/play/a1f5/index.m3u8
 #EXTINF:-1 group-title="-",Discovery H&H HD
 http://38.7.101.90:8000/play/a1g5/index.m3u8
 #EXTINF:-1 group-title="-",Discovery ID HD
 http://38.7.101.90:8000/play/a1nn/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Theater HD
-http://38.7.101.90:8000/play/a1xh/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Discovery%20Turbo.png",Discovery Turbo
 http://38.7.101.90:8000/play/a1k6/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World HD
-http://38.7.101.90:8000/play/a1za/index.m3u8
-#EXTINF:-1 group-title="-",Distrito Comedia
-http://38.7.101.90:8000/play/a1ph/index.m3u8
 #EXTINF:-1 group-title="-",E! Entertainment TV
 http://38.7.101.90:8000/play/a1kc/index.m3u8
-#EXTINF:-1 group-title="-",ESPN Premium HD
-http://38.7.101.90:8000/play/a1f6/index.m3u8
-#EXTINF:-1 group-title="-",El Gourmet HD
-http://38.7.101.90:8000/play/a1z0/index.m3u8
-#EXTINF:-1 group-title="-",Enlace
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ENLACE.png",Enlace
 http://38.7.101.90:8000/play/31590/index.m3u8
-#EXTINF:-1 group-title="-",Eurochannel
-http://38.7.101.90:8000/play/a1oe/index.m3u8
-#EXTINF:-1 group-title="-",Europa Europa
-http://38.7.101.90:8000/play/a1pc/index.m3u8
-#EXTINF:-1 group-title="-",FX HD
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/FX.png",FX HD
 http://38.7.101.90:8000/play/a1ns/index.m3u8
-#EXTINF:-1 group-title="-",Film&Arts
-http://38.7.101.90:8000/play/a1p0/index.m3u8
-#EXTINF:-1 group-title="-",Global
-http://38.7.101.90:8000/play/a1oa/index.m3u8
-#EXTINF:-1 group-title="-",Golden Edge
-http://38.7.101.90:8000/play/a1p9/index.m3u8
-#EXTINF:-1 group-title="-",Golden HD
-http://38.7.101.90:8000/play/a1ov/index.m3u8
-#EXTINF:-1 group-title="-",Golf Channel
-http://38.7.101.90:8000/play/a1p6/index.m3u8
-#EXTINF:-1 group-title="-",HBO 2
-http://38.7.101.90:8000/play/a1pf/index.m3u8
-#EXTINF:-1 group-title="-",HBO Family HD
-http://38.7.101.90:8000/play/a1xn/index.m3u8
-#EXTINF:-1 group-title="-",HBO HD
-http://38.7.101.90:8000/play/a1z9/index.m3u8
-#EXTINF:-1 group-title="-",HBO Mundi
-http://38.7.101.90:8000/play/a1og/index.m3u8
-#EXTINF:-1 group-title="-",HBO POP HD
-http://38.7.101.90:8000/play/a1xk/index.m3u8
-#EXTINF:-1 group-title="-",HBO Plus
-http://38.7.101.90:8000/play/a1pe/index.m3u8
-#EXTINF:-1 group-title="-",HBO Signature
-http://38.7.101.90:8000/play/a1of/index.m3u8
-#EXTINF:-1 group-title="-",HBO Xtreme HD
-http://38.7.101.90:8000/play/a1xo/index.m3u8
-#EXTINF:-1 group-title="-",HGTV
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HGTV.png",HGTV
 http://38.7.101.90:8000/play/a1kf/index.m3u8
-#EXTINF:-1 group-title="-",History 2
-http://38.7.101.90:8000/play/a1ow/index.m3u8
-#EXTINF:-1 group-title="-",Las Estrellas HD
-http://38.7.101.90:8000/play/a1xm/index.m3u8
-#EXTINF:-1 group-title="-",Latina HD
-http://38.7.101.90:8000/play/a1eo/index.m3u8
-#EXTINF:-1 group-title="-",Lifetime
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Latina.png",Latina HD
+http://38.7.101.90:8000/play/a1zy/index.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Life%20Time.png",Lifetime
 http://38.7.101.90:8000/play/a1ki/index.m3u8
-#EXTINF:-1 group-title="-",MEGA HD
-http://38.7.101.90:8000/play/a1xl/index.m3u8
-#EXTINF:-1 group-title="-",MTV HD
-http://38.7.101.90:8000/play/a1ze/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo HD
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Nat%20Geo.png",Nat Geo HD
 http://38.7.101.90:8000/play/a1fe/index.m3u8
 #EXTINF:-1 group-title="-",Nick Jr.
 http://38.7.101.90:8000/play/a1k9/index.m3u8
-#EXTINF:-1 group-title="-",Nickelodeon HD
-http://38.7.101.90:8000/play/a1me/index.m3u8
-#EXTINF:-1 group-title="-",Panamericana
-http://38.7.101.90:8000/play/a1o7/index.m3u8
-#EXTINF:-1 group-title="-",Pasiones HD
-http://38.7.101.90:8000/play/a1et/index.m3u8
-#EXTINF:-1 group-title="-",RPP
-http://38.7.101.90:8000/play/a1o9/index.m3u8
-#EXTINF:-1 group-title="-",Sony HD
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony%20Movies.png",Sony HD
 http://38.7.101.90:8000/play/a1fi/index.m3u8
-#EXTINF:-1 group-title="-",Sony Movies
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony%20Movies.png",Sony Movies
 http://38.7.101.90:8000/play/a1k4/index.m3u8
-#EXTINF:-1 group-title="-",Space HD
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Space%20HD.png",Space HD
 http://38.7.101.90:8000/play/a1no/index.m3u8
-#EXTINF:-1 group-title="-",Star Channel HD
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Star%20Channel%20HD.png",Star Channel HD
 http://38.7.101.90:8000/play/a1nt/index.m3u8
-#EXTINF:-1 group-title="-",Stingray Concerts HD
-http://38.7.101.90:8000/play/a0l9/index.m3u8
-#EXTINF:-1 group-title="-",Studio Universal HD
-http://38.7.101.90:8000/play/a1em/index.m3u8
-#EXTINF:-1 group-title="-",TLC
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TLC.png",TLC
 http://38.7.101.90:8000/play/a1ka/index.m3u8
-#EXTINF:-1 group-title="-",TNT HD
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TNT%20HD.png",TNT HD
 http://38.7.101.90:8000/play/a1xq/index.m3u8
-#EXTINF:-1 group-title="-",TNT Novelas HD
-http://38.7.101.90:8000/play/a1zc/index.m3u8
-#EXTINF:-1 group-title="-",TNT Series HD
-http://38.7.101.90:8000/play/a1z5/index.m3u8
-#EXTINF:-1 group-title="-",TV+ HD
-http://38.7.101.90:8000/play/a1ez/index.m3u8
-#EXTINF:-1 group-title="-",TVN HD
-http://38.7.101.90:8000/play/a1xi/index.m3u8
-#EXTINF:-1 group-title="-",Telemundo
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Telemundo.png",Telemundo
 http://38.7.101.90:8000/play/a1kd/index.m3u8
-#EXTINF:-1 group-title="-",Tooncast
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Tooncast.png",Tooncast
 http://38.7.101.90:8000/play/a1ke/index.m3u8
-#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
-http://38.7.101.90:8000/play/a1z1/index.m3u8
-#EXTINF:-1 group-title="-",USA
-http://38.7.101.90:8000/play/a1p8/index.m3u8
-#EXTINF:-1 group-title="-",Warner Channel HD
+#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Warner%20Channel.png",Warner Channel HD
 http://38.7.101.90:8000/play/a1fj/index.m3u8
