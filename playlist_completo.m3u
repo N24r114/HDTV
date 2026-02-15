@@ -1,50 +1,50 @@
 #EXTM3U
 # Lista IPTV Final | Logos 100px + tvg-id | Repo: https://github.com/N24r114/tv-logos
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/America%20TV%20HD.png",America TV HD
+#EXTINF:-1 group-title="-" tvg-id="AMERICA TELEVISION HD.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/America%20TV%20HD.png",America TV HD
 http://38.7.101.90:8000/play/a1zx/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Animal%20Planet.png",Animal Planet HD
+#EXTINF:-1 group-title="-" tvg-id="Animal Planet HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Animal%20Planet.png",Animal Planet HD
 http://38.7.101.90:8000/play/a1fb/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/BETHEL%20TV.png",BETHEL TV
+#EXTINF:-1 group-title="-" tvg-id="pe#bethel" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/BETHEL%20TV.png",BETHEL TV
 http://38.7.101.90:8000/play/a1xs/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Baby%20TV.png",Baby TV
+#EXTINF:-1 group-title="-" tvg-id="BABY TV.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Baby%20TV.png",Baby TV
 http://38.7.101.90:8000/play/a1k0/index.m3u8
-#EXTINF:-1 group-title="-",Discovery H&H HD
+#EXTINF:-1 group-title="-" tvg-id="HOME and HEALTH HD.pe",Discovery H&H HD
 http://38.7.101.90:8000/play/a1g5/index.m3u8
-#EXTINF:-1 group-title="-",Discovery ID HD
+#EXTINF:-1 group-title="-" tvg-id="DISCOVERY KIDS HD.cl",Discovery ID HD
 http://38.7.101.90:8000/play/a1nn/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Discovery%20Turbo.png",Discovery Turbo
+#EXTINF:-1 group-title="-" tvg-id="DISCOVERY TURBO.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Discovery%20Turbo.png",Discovery Turbo
 http://38.7.101.90:8000/play/a1k6/index.m3u8
-#EXTINF:-1 group-title="-",E! Entertainment TV
+#EXTINF:-1 group-title="-" tvg-id="E! Entertainment TV.co",E! Entertainment TV
 http://38.7.101.90:8000/play/a1kc/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ENLACE.png",Enlace
+#EXTINF:-1 group-title="-" tvg-id="ENLACE TBN.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ENLACE.png",Enlace
 http://38.7.101.90:8000/play/31590/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/FX.png",FX HD
+#EXTINF:-1 group-title="-" tvg-id="FX CHILE.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/FX.png",FX HD
 http://38.7.101.90:8000/play/a1ns/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HGTV.png",HGTV
+#EXTINF:-1 group-title="-" tvg-id="HGTV.co" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HGTV.png",HGTV
 http://38.7.101.90:8000/play/a1kf/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Latina.png",Latina HD
+#EXTINF:-1 group-title="-" tvg-id="LATINA HD.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Latina.png",Latina HD
 http://38.7.101.90:8000/play/a1zy/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Life%20Time.png",Lifetime
+#EXTINF:-1 group-title="-" tvg-id="LIFETIME.co" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Life%20Time.png",Lifetime
 http://38.7.101.90:8000/play/a1ki/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Nat%20Geo.png",Nat Geo HD
+#EXTINF:-1 group-title="-" tvg-id="NAT GEO.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Nat%20Geo.png",Nat Geo HD
 http://38.7.101.90:8000/play/a1fe/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr.
+#EXTINF:-1 group-title="-" tvg-id="Nick Jr.co",Nick Jr.
 http://38.7.101.90:8000/play/a1k9/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony%20Movies.png",Sony HD
+#EXTINF:-1 group-title="-" tvg-id="SONY HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony%20Movies.png",Sony HD
 http://38.7.101.90:8000/play/a1fi/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony%20Movies.png",Sony Movies
+#EXTINF:-1 group-title="-" tvg-id="Sony Movies.uy" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony%20Movies.png",Sony Movies
 http://38.7.101.90:8000/play/a1k4/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Space%20HD.png",Space HD
+#EXTINF:-1 group-title="-" tvg-id="SPACE HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Space%20HD.png",Space HD
 http://38.7.101.90:8000/play/a1no/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Star%20Channel%20HD.png",Star Channel HD
+#EXTINF:-1 group-title="-" tvg-id="STAR CHANNEL HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Star%20Channel%20HD.png",Star Channel HD
 http://38.7.101.90:8000/play/a1nt/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TLC.png",TLC
+#EXTINF:-1 group-title="-" tvg-id="TLC HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TLC.png",TLC
 http://38.7.101.90:8000/play/a1ka/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TNT%20HD.png",TNT HD
+#EXTINF:-1 group-title="-" tvg-id="TNT HD.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TNT%20HD.png",TNT HD
 http://38.7.101.90:8000/play/a1xq/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Telemundo.png",Telemundo
+#EXTINF:-1 group-title="-" tvg-id="TELEMUNDO HD.cl" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Telemundo.png",Telemundo
 http://38.7.101.90:8000/play/a1kd/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Tooncast.png",Tooncast
+#EXTINF:-1 group-title="-" tvg-id="TOONCAST.pe" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Tooncast.png",Tooncast
 http://38.7.101.90:8000/play/a1ke/index.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Warner%20Channel.png",Warner Channel HD
+#EXTINF:-1 group-title="-" tvg-id="WARNER.ve" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Warner%20Channel.png",Warner Channel HD
 http://38.7.101.90:8000/play/a1fj/index.m3u8
