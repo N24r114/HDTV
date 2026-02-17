@@ -21,6 +21,8 @@ http://138.204.12.14:40000/play/a0gr/index.m3u8
 http://138.204.12.14:40000/play/a0o2/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito HD.uy" group-title="-",Cartoonito
 http://138.204.12.14:40000/play/a0or/index.m3u8
+#EXTINF:-1 tvg-id="CGTN Español HD.uy" group-title="-",CGTN
+http://138.204.12.14:40000/play/a0eu/index.m3u8
 #EXTINF:-1 tvg-id="CHV.cl" group-title="-",CHV HD
 http://138.204.12.14:40000/play/a0m9/index.m3u8
 #EXTINF:-1 tvg-id="CLOVER.pe" group-title="-",Clover HD
