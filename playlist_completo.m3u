@@ -1,310 +1,436 @@
 #EXTM3U url-tvg="" x-tvg-url=""
-#EXTINF:-1 tvg-id="A&E HD.uy" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/A%26E.png" tvg-language="es" group-title="-" audio-track="es",A&E
+#EXTINF:-1 tvg-id="A&E HD.uy" tvg-name="A&E" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",A&E
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yb/index.m3u8
-#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Adult%20Swim.png" tvg-language="es" group-title="-" audio-track="es",Adult Swim
+#EXTINF:-1 tvg-id="A&E HD.uy" tvg-name="A&E HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",A&E HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0k6/index.m3u8
+#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-name="Adult Swim" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Adult Swim
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0wc/index.m3u8
-#EXTINF:-1 tvg-id="AMC HD.uy" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/AMC.png" tvg-language="es" group-title="-" audio-track="es",AMC
+#EXTINF:-1 tvg-id="AMC HD.uy" tvg-name="AMC" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AMC
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yc/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC Series" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/AMC%20Series.png" tvg-language="es" group-title="-" audio-track="es",AMC Series
+#EXTINF:-1 tvg-id="AMC HD.uy" tvg-name="AMC HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AMC HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0pc/index.m3u8
+#EXTINF:-1 tvg-id="AmcSeries.pe" tvg-name="AMC Series" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AMC Series
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a101/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/America%20TV.png" tvg-language="es" group-title="-" audio-track="es",America TV HD
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",America TV HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yj/index.m3u8
-#EXTINF:-1 tvg-id="Animal Planet HD.cl" tvg-name="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Animal%20Planet.png" tvg-language="es" group-title="-" audio-track="es",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal Planet HD.cl" tvg-name="Animal Planet HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Animal Planet HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0k3/index.m3u8
-#EXTINF:-1 tvg-id="Antena3.pe" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Antena%203.png" tvg-language="es" group-title="-" audio-track="es",Antena 3
+#EXTINF:-1 tvg-id="Antena3.pe" tvg-name="Antena 3" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Antena 3
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0ze/index.m3u8
-#EXTINF:-1 tvg-id="Atreseries.pe" tvg-name="Atres Series" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ATRES%20SERIES.png" tvg-language="es" group-title="-" audio-track="es",Atres Series
+#EXTINF:-1 tvg-id="Atreseries.pe" tvg-name="Atres Series" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Atres Series
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0x7/index.m3u8
-#EXTINF:-1 tvg-id="Atv.pe" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ATV.png" tvg-language="es" group-title="-" audio-track="es",ATV
+#EXTINF:-1 tvg-id="Atv.pe" tvg-name="ATV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ATV
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0z9/index.m3u8
-#EXTINF:-1 tvg-id="AXN HD.cl" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/AXN%20HD.png" tvg-language="es" group-title="-" audio-track="es",AXN
+#EXTINF:-1 tvg-id="AXN HD.cl" tvg-name="AXN" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AXN
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yx/index.m3u8
-#EXTINF:-1 tvg-id="BabyTv.pe" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Baby%20TV.png" tvg-language="es" group-title="-" audio-track="es",Baby TV
+#EXTINF:-1 tvg-id="AXN HD.cl" tvg-name="AXN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AXN HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-id="BabyTv.pe" tvg-name="Baby TV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Baby TV
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0xy/index.m3u8
-#EXTINF:-1 tvg-id="Bethel.pe" tvg-name="BETHEL TV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/BETHEL%20TV.png" tvg-language="es" group-title="-" audio-track="es",BETHEL TV
+#EXTINF:-1 tvg-id="Bethel.pe" tvg-name="BETHEL TV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",BETHEL TV
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0l8/index.m3u8
-#EXTINF:-1 tvg-id="Canal 13.cl" tvg-name="Canal 13 HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Canal%2013.png" tvg-language="es" group-title="-" audio-track="es",Canal 13 HD
+#EXTINF:-1 tvg-id="Canal 13.cl" tvg-name="Canal 13 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Canal 13 HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0vu/index.m3u8
-#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Canal%20N.png" tvg-language="es" group-title="-" audio-track="es",Canal N
+#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Canal 24 Horas HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0jl/index.m3u8
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="Canal N" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Canal N
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yq/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network HD.cl" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Cartoon%20Network.png" tvg-language="es" group-title="-" audio-track="es",Cartoon Network HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0s1/index.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.pe" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Cartoonito.png" tvg-language="es" group-title="-" audio-track="es",Cartoonito
+http://179.51.161.253:8888/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.pe" tvg-name="Cartoonito" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Cartoonito
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0ue/index.m3u8
-#EXTINF:-1 tvg-id="CHV.cl" tvg-name="CHV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/CHV.png" tvg-language="es" group-title="-" audio-track="es",CHV HD
+#EXTINF:-1 tvg-id="CHV.cl" tvg-name="CHV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CHV HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0vg/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal.pe" tvg-name="Cinecanal HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Cinecanal.png" tvg-language="es" group-title="-" audio-track="es",Cinecanal HD
+#EXTINF:-1 tvg-id="Cinecanal.pe" tvg-name="Cinecanal HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Cinecanal HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0v2/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAX SUR.cl" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Cinemax.png" tvg-language="es" group-title="-" audio-track="es",Cinemax
+#EXTINF:-1 tvg-id="CINEMAX SUR.cl" tvg-name="Cinemax" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Cinemax
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0xv/index.m3u8
-#EXTINF:-1 tvg-id="CNN CHILE HD.cl" tvg-name="CNN Chile" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/CNN%20Chile.png" tvg-language="es" group-title="-" audio-track="es",CNN Chile
+#EXTINF:-1 tvg-id="CNN CHILE HD.cl" tvg-name="CNN Chile" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CNN Chile
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a12p/index.m3u8
-#EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNN Espaæol" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/e_-mediano.png" tvg-language="es" group-title="-" audio-track="es",CNN Espaæol
+#EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNN Espaæol" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CNN Espaæol
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0oh/index.m3u8
-#EXTINF:-1 tvg-id="CNN INTERNACIONAL.pe" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/e_-mediano.png" tvg-language="es" group-title="-" audio-track="es",CNN International
+#EXTINF:-1 tvg-id="CNN INTERNACIONAL.pe" tvg-name="CNN International" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CNN International
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0w3/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.pe" tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Comedy%20Central.png" tvg-language="es" group-title="-" audio-track="es",Comedy Central HD
+#EXTINF:-1 tvg-id="ComedyCentral.pe" tvg-name="Comedy Central HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Comedy Central HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0k7/index.m3u8
-#EXTINF:-1 tvg-id="De Película.mx" tvg-name="De PelŦcula" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/e_-mediano.png" tvg-language="es" group-title="-" audio-track="es",De PelŦcula
+#EXTINF:-1 tvg-id="De Película.mx" tvg-name="De PelŦcula" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",De PelŦcula
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0rc/index.m3u8
-#EXTINF:-1 tvg-id="DHE HD.co" tvg-name="DHE HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/DHE.png" tvg-language="es" group-title="-" audio-track="es",DHE HD
+#EXTINF:-1 tvg-id="DHE HD.co" tvg-name="DHE HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",DHE HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0xd/index.m3u8
-#EXTINF:-1 tvg-id="DIRECTV SPORTS.ve" tvg-name="DIRECTVSPORT EC" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/directv%20sport%201.png" tvg-language="es" group-title="-" audio-track="es",DIRECTVSPORT EC
+#EXTINF:-1 tvg-id="DSPORTS.ve" tvg-name="DIRECTV AR  HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV+.png" tvg-language="es" group-title="-" audio-track="es",DIRECTV AR  HD
+#EXTVLCOPT:audio-language=es,spa
+http://45.173.231.22:8000/play/a0e1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV DEPORTE" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV+.png" tvg-language="es" group-title="-" audio-track="es",DIRECTV DEPORTE
+#EXTVLCOPT:audio-language=es,spa
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.ve" tvg-name="directv sport 1" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/directv%20sport%201.png" tvg-language="es" group-title="-" audio-track="es",directv sport 1
+#EXTVLCOPT:audio-language=es,spa
+http://179.1.158.52:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.ve" tvg-name="Directv Sports" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV+.png" tvg-language="es" group-title="-" audio-track="es",Directv Sports
+#EXTVLCOPT:audio-language=es,spa
+http://181.65.154.10:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.ve" tvg-name="DirecTV SPORTS 2" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV+.png" tvg-language="es" group-title="-" audio-track="es",DirecTV SPORTS 2
+#EXTVLCOPT:audio-language=es,spa
+http://179.51.160.246:9010/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports PLUS" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV+.png" tvg-language="es" group-title="-" audio-track="es",DirecTV Sports PLUS
+#EXTVLCOPT:audio-language=es,spa
+http://179.51.160.246:9010/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="DSPORTS.ve" tvg-name="DIRECTVSPORT EC" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",DIRECTVSPORT EC
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0q5/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY HD.pe" tvg-name="Discovery Channel  HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Discovery%20Channel.png" tvg-language="es" group-title="-" audio-track="es",Discovery Channel  HD
+#EXTINF:-1 tvg-id="DISCOVERY HD.pe" tvg-name="Discovery Channel  HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Channel  HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0wf/index.m3u8
-#EXTINF:-1 tvg-id="DISCOVERY KIDS HD.cl" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/discovery_kids-mediano.png" tvg-language="es" group-title="-" audio-track="es",Discovery Kids
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD.cl" tvg-name="Discovery Kids" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Kids
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0zs/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Discovery%20Science.png" tvg-language="es" group-title="-" audio-track="es",Discovery Science
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD.cl" tvg-name="Discovery Kids HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Kids HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0w4/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-name="Discovery Science" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Science
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0rn/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/discovery_theater-mediano.png" tvg-language="es" group-title="-" audio-track="es",Discovery Theater HD
+#EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-name="Discovery Theater HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Theater HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0ve/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/discovery_turbo-mediano.png" tvg-language="es" group-title="-" audio-track="es",Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-name="Discovery Turbo" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Turbo
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0tf/index.m3u8
-#EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Discovery%20World.png" tvg-language="es" group-title="-" audio-track="es",Discovery World HD
+#EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-name="Discovery World HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery World HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0w1/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY CHANNEL HD.cl" tvg-name="Disney Channel HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Disney%20HD.png" tvg-language="es" group-title="-" audio-track="es",Disney Channel HD
+#EXTINF:-1 tvg-id="DISNEY CHANNEL HD.cl" tvg-name="Disney Channel HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Disney Channel HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0v6/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY JUNIOR HD.cl" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Disney%20Junior.png" tvg-language="es" group-title="-" audio-track="es",Disney Junior
+#EXTINF:-1 tvg-id="DISNEY JUNIOR HD.cl" tvg-name="Disney Junior" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Disney Junior
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0s8/index.m3u8
-#EXTINF:-1 tvg-id="DISTRITO COMEDIA.pe" tvg-name="Distrito Comedia" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Distrito%20Comedia.png" tvg-language="es" group-title="-" audio-track="es",Distrito Comedia
+#EXTINF:-1 tvg-id="DISTRITO COMEDIA.pe" tvg-name="Distrito Comedia" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Distrito Comedia
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a10e/index.m3u8
-#EXTINF:-1 tvg-id="DEUTSCHE WELLE.pe" tvg-name="DW Espaæol" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Dw Español.png" tvg-language="es" group-title="-" audio-track="es",DW Espaæol
+#EXTINF:-1 tvg-id="DEUTSCHE WELLE.pe" tvg-name="DW Espaæol" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",DW Espaæol
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0wy/index.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment TV.co" tvg-name="E! Entertainment TV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV+.png" tvg-language="es" group-title="-" audio-track="es",E! Entertainment TV
+#EXTINF:-1 tvg-id="E! Entertainment TV.co" tvg-name="E! Entertainment TV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",E! Entertainment TV
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0pr/index.m3u8
-#EXTINF:-1 tvg-id="El Gourmet.co" tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/El%20Gourmet.png" tvg-language="es" group-title="-" audio-track="es",El Gourmet
+#EXTINF:-1 tvg-id="El Gourmet.co" tvg-name="El Gourmet" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",El Gourmet
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0z5/index.m3u8
-#EXTINF:-1 tvg-id="ENLACE TBN.pe" tvg-name="Enlace" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ENLACE.png" tvg-language="es" group-title="-" audio-track="es",Enlace
+#EXTINF:-1 tvg-id="El Gourmet.co" tvg-name="El Gourmet HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",El Gourmet HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0k8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Trece" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",El Trece
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0zd/index.m3u8
+#EXTINF:-1 tvg-id="Enlace.pe" tvg-name="Enlace" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Enlace
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0y1/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%202.png" tvg-language="es" group-title="-" audio-track="es",ESPN 2
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a104/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%203.png" tvg-language="es" group-title="-" audio-track="es",ESPN 3 HD
+http://190.119.205.14:8000/play/a0yg/index.m3u8
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0w2/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-name="ESPN 4 HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%204.png" tvg-language="es" group-title="-" audio-track="es",ESPN 4 HD
+http://190.119.205.14:8000/play/a0y5/index.m3u8
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0v7/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%205.png" tvg-language="es" group-title="-" audio-track="es",ESPN 5HD
-#EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0sb/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%206.png" tvg-language="es" group-title="-" audio-track="es",ESPN 6 HD
-#EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0vv/index.m3u8
-#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%207.png" tvg-language="es" group-title="-" audio-track="es",ESPN 7
-#EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0zt/index.m3u8
-#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%20HD.png" tvg-language="es" group-title="-" audio-track="es",ESPN HD
+http://190.119.205.14:8000/play/a0vn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a127/index.m3u8
-#EXTINF:-1 tvg-id="ESPN Premium.cl" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ESPN%20Premium.png" tvg-language="es" group-title="-" audio-track="es",ESPN Premium HD
+#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 2 HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0y6/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 2 HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0vi/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 2 HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a11r/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 3 HD.uy" tvg-name="ESPN 3 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 3 HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0w2/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 4 HD.uy" tvg-name="ESPN 4 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 4 HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0v7/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 5 HD.uy" tvg-name="ESPN 5HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 5HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0sb/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 6 HD.uy" tvg-name="ESPN 6 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 6 HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0vv/index.m3u8
+#EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 7HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0ln/index.m3u8
+#EXTINF:-1 tvg-id="ESPN Premium.cl" tvg-name="ESPN Premium HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN Premium HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0vq/index.m3u8
-#EXTINF:-1 tvg-id="EXITOSA TV.pe" tvg-name="Exitosa TV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/EXITOSA.png" tvg-language="es" group-title="-" audio-track="es",Exitosa TV
+#EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN1 EC" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN1 EC
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-id="EUROPA EUROPA.ar" tvg-name="Europa Europa" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Europa Europa
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0u1/index.m3u8
+#EXTINF:-1 tvg-id="EWTN.co" tvg-name="EWTN" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",EWTN
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0wa/index.m3u8
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-name="Exitosa TV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Exitosa TV
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yr/index.m3u8
-#EXTINF:-1 tvg-id="FILM and ARTS.co" tvg-name="Film&Arts" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Film_Arts.png" tvg-language="es" group-title="-" audio-track="es",Film&Arts
+#EXTINF:-1 tvg-id="FILM & ARTS.co" tvg-name="Film&Arts" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Film&Arts
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0us/index.m3u8
-#EXTINF:-1 tvg-id="FX CHILE.cl" tvg-name="FX HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/FX.png" tvg-language="es" group-title="-" audio-track="es",FX HD
+#EXTINF:-1 tvg-id="Food Network HD.pe" tvg-name="Food Network" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Food Network
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0xj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",France 24
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0zh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTBOL" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",FUTBOL
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0rt/index.m3u8
+#EXTINF:-1 tvg-id="FX CHILE.cl" tvg-name="FX HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",FX HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0v8/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-name="Global" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/GLOBAL.png" tvg-language="es" group-title="-" audio-track="es",Global
+#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-name="Global" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Global
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0zb/index.m3u8
-#EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Golden%20Edge.png" tvg-language="es" group-title="-" audio-track="es",Golden Edge
-#EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0rb/index.m3u8
-#EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="Golden HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Golden.png" tvg-language="es" group-title="-" audio-track="es",Golden HD
+#EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="Golden HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Golden HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0x0/index.m3u8
-#EXTINF:-1 tvg-id="HBO 2 HD.cl" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%202.png" tvg-language="es" group-title="-" audio-track="es",HBO 2
+#EXTINF:-1 tvg-id="Golden Edge.cl" tvg-name="Golden Edge" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Golden Edge
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a13p/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family.uy" tvg-name="HBO Family HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%20Family.png" tvg-language="es" group-title="-" audio-track="es",HBO Family HD
+http://190.119.205.14:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-id="GOLF CHANNEL.pe" tvg-name="Golf Channel" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Golf Channel
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0p5/index.m3u8
-#EXTINF:-1 tvg-id="HBO.pe" tvg-name="HBO HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%20HD.png" tvg-language="es" group-title="-" audio-track="es",HBO HD
+http://190.119.205.14:8000/play/a105/index.m3u8
+#EXTINF:-1 tvg-id="HBO.pe" tvg-name="HBO HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0w0/index.m3u8
-#EXTINF:-1 tvg-id="HBO MUNDI.cl" tvg-name="HBO Mundi" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%20Mundi.png" tvg-language="es" group-title="-" audio-track="es",HBO Mundi
+#EXTINF:-1 tvg-id="HBO 2 HD.cl" tvg-name="HBO 2" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO 2
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a13p/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD.cl" tvg-name="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%202.png" tvg-language="es" group-title="-" audio-track="es",HBO 2 HD
+#EXTVLCOPT:audio-language=es,spa
+http://38.56.111.14:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family.uy" tvg-name="HBO Family HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Family HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0p5/index.m3u8
+#EXTINF:-1 tvg-id="HBO MUNDI.cl" tvg-name="HBO Mundi" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Mundi
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0ww/index.m3u8
-#EXTINF:-1 tvg-id="HBO PLUS ESTE.cl" tvg-name="HBO Plus" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%20PLUS.png" tvg-language="es" group-title="-" audio-track="es",HBO Plus
+#EXTINF:-1 tvg-id="HBO PLUS ESTE.cl" tvg-name="HBO Plus HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%20PLUS.png" tvg-language="es" group-title="" audio-track="es",HBO Plus HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0py/index.m3u8
-#EXTINF:-1 tvg-id="HBO POP.cl" tvg-name="HBO POP HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%20POP.png" tvg-language="es" group-title="-" audio-track="es",HBO POP HD
+http://190.108.90.193:1234/play/a1bw/index.m3u8
+#EXTINF:-1 tvg-id="HBO POP.cl" tvg-name="HBO POP HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO POP HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0vj/index.m3u8
-#EXTINF:-1 tvg-id="HBO_SIGNATURE.cl" tvg-name="HBO Signature" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%20Signature.png" tvg-language="es" group-title="-" audio-track="es",HBO Signature
+#EXTINF:-1 tvg-id="HBO_SIGNATURE.cl" tvg-name="HBO Signature" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Signature
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0zf/index.m3u8
-#EXTINF:-1 tvg-id="HBO XTREME HD.cl" tvg-name="HBO Xtreme HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HBO%20XTREME.png" tvg-language="es" group-title="-" audio-track="es",HBO Xtreme HD
+#EXTINF:-1 tvg-id="HBO XTREME HD.cl" tvg-name="HBO Xtreme HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Xtreme HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0ss/index.m3u8
-#EXTINF:-1 tvg-id="HGTV.co" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/HGTV.png" tvg-language="es" group-title="-" audio-track="es",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="HEI HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HEI HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0uq/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.co" tvg-name="HGTV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HGTV
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0w9/index.m3u8
-#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/History%20Channel.png" tvg-language="es" group-title="-" audio-track="es",History Channel
-#EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0zu/index.m3u8
-#EXTINF:-1 tvg-id="HISTORY 2.cl" tvg-name="History 2" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/History2%20HD.png" tvg-language="es" group-title="-" audio-track="es",History 2
+#EXTINF:-1 tvg-id="HISTORY 2.cl" tvg-name="History 2" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",History 2
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0wi/index.m3u8
-#EXTINF:-1 tvg-id="¡HOLA! TV HD.cl" tvg-name="HOLA TV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Hola%20TV.png" tvg-language="es" group-title="-" audio-track="es",HOLA TV HD
+#EXTINF:-1 tvg-id="HISTORY 2.cl" tvg-name="History 2" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",History 2
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0zw/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="History Channel" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",History Channel
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0zu/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="History Channel HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",History Channel HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0k5/index.m3u8
+#EXTINF:-1 tvg-id="¡HOLA! TV HD.cl" tvg-name="HOLA TV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HOLA TV HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0y3/index.m3u8
-#EXTINF:-1 tvg-id="INV.DISCOVERY HD.pe" tvg-name="ID HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/ID%20HD.png" tvg-language="es" group-title="-" audio-track="es",ID HD
+#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Home & Health HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0w6/index.m3u8
+#EXTINF:-1 tvg-id="HTV.co" tvg-name="HTV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HTV
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a102/index.m3u8
+#EXTINF:-1 tvg-id="INV.DISCOVERY HD.pe" tvg-name="ID HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ID HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0kf/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="L1" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Canal%2013.png" tvg-language="es" group-title="-" audio-track="es",L1
+#EXTINF:-1 tvg-id="Kanal D Drama.cl" tvg-name="Kanal D Drama" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Kanal D Drama
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0wu/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L1" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",L1
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0y4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="L1 MAX" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",L1 MAX
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a126/index.m3u8
-#EXTINF:-1 tvg-id="La Red.cl" tvg-name="La Red HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/La%20Red.png" tvg-language="es" group-title="-" audio-track="es",La Red HD
+#EXTINF:-1 tvg-id="La Red.cl" tvg-name="La Red HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",La Red HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0jk/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellas.pe" tvg-name="Las Estrellas HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Las%20Estrellas%20HD.png" tvg-language="es" group-title="-" audio-track="es",Las Estrellas HD
+#EXTINF:-1 tvg-id="LasEstrellas.pe" tvg-name="Las Estrellas HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Las Estrellas HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0xq/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Latina.png" tvg-language="es" group-title="-" audio-track="es",Latina HD
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Latina HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yk/index.m3u8
-#EXTINF:-1 tvg-id="LIFETIME.co" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Lifetime.png" tvg-language="es" group-title="-" audio-track="es",Lifetime
+#EXTINF:-1 tvg-id="LIFETIME.co" tvg-name="Lifetime" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Lifetime
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0pw/index.m3u8
-#EXTINF:-1 tvg-id="Love Nature HD.pe" tvg-name="Love Nature" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Love%20Nature.png" tvg-language="es" group-title="-" audio-track="es",Love Nature
+#EXTINF:-1 tvg-id="Love Nature HD.pe" tvg-name="Love Nature" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Love Nature
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yv/index.m3u8
-#EXTINF:-1 tvg-id="Mega.cl" tvg-name="MEGA HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/MEGA.png" tvg-language="es" group-title="-" audio-track="es",MEGA HD
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="MEGA HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",MEGA HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0vl/index.m3u8
-#EXTINF:-1 tvg-id="M DEPORTES HD.pe" tvg-name="Movistar Deportes" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/MOVISTAR%20DEPORTES.png" tvg-language="es" group-title="-" audio-track="es",Movistar Deportes
+#EXTINF:-1 tvg-id="MovistarDeportes.pe" tvg-name="Movistar Deportes" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Movistar Deportes
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yn/index.m3u8
-#EXTINF:-1 tvg-id="MTV HD.pe" tvg-name="MTV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/MTV%20HD.png" tvg-language="es" group-title="-" audio-track="es",MTV HD
+#EXTINF:-1 tvg-id="MTV HD.pe" tvg-name="MTV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",MTV HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0kk/index.m3u8
-#EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-name="Nat Geo HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Nat%20Geo.png" tvg-language="es" group-title="-" audio-track="es",Nat Geo HD
+#EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-name="Nat Geo HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Nat Geo HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0k9/index.m3u8
-#EXTINF:-1 tvg-id="Nick Jr.co" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/nick_jr-mediano.png" tvg-language="es" group-title="-" audio-track="es",Nick Jr
-#EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0po/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-name="Nickelodeon HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Nick%20HD.png" tvg-language="es" group-title="-" audio-track="es",Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-name="Nickelodeon HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Nickelodeon HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0vk/index.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Panamericana.png" tvg-language="es" group-title="-" audio-track="es",Panamericana
+#EXTINF:-1 tvg-id="PanamericanaTelevision.pe" tvg-name="Panamericana" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Panamericana
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0z8/index.m3u8
-#EXTINF:-1 tvg-id="Pasiones.pe" tvg-name="Pasiones HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Pasiones.png" tvg-language="es" group-title="-" audio-track="es",Pasiones HD
+#EXTINF:-1 tvg-id="Pasiones.pe" tvg-name="Pasiones HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Pasiones HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0p6/index.m3u8
-#EXTINF:-1 tvg-id="SONY HD.cl" tvg-name="Sony" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony.png" tvg-language="es" group-title="-" audio-track="es",Sony
+#EXTINF:-1 tvg-id="RPP HD.pe" tvg-name="RPP" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",RPP
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0za/index.m3u8
+#EXTINF:-1 tvg-id="SONY HD.cl" tvg-name="Sony" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Sony
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0z0/index.m3u8
-#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-name="Sony Movies" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony%20Movies.png" tvg-language="es" group-title="-" audio-track="es",Sony Movies
+#EXTINF:-1 tvg-id="SONY HD.cl" tvg-name="Sony HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Sony HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0s6/index.m3u8
-#EXTINF:-1 tvg-id="SPACE HD.cl" tvg-name="Space HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Space%20HD.png" tvg-language="es" group-title="-" audio-track="es",Space HD
+http://190.119.205.14:8000/play/a0kc/index.m3u8
+#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-name="Sony Movies HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Sony%20Movies.png" tvg-language="es" group-title="-" audio-track="es",Sony Movies HD
+#EXTVLCOPT:audio-language=es,spa
+http://179.51.160.246:8888/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="SPACE HD.cl" tvg-name="Space HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Space HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0v5/index.m3u8
-#EXTINF:-1 tvg-id="STAR CHANNEL HD.cl" tvg-name="STAR CHANNEL" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Star%20Channel%20HD.png" tvg-language="es" group-title="-" audio-track="es",STAR CHANNEL
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.cl" tvg-name="STAR CHANNEL" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",STAR CHANNEL
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0z2/index.m3u8
-#EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="Studio Universal HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Studio%20Universal.png" tvg-language="es" group-title="-" audio-track="es",Studio Universal HD
+#EXTINF:-1 tvg-id="STAR CHANNEL HD.cl" tvg-name="Star Channel HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Star Channel HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0v9/index.m3u8
+#EXTINF:-1 tvg-id="Studio Universal.co" tvg-name="Studio Universal HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Studio Universal HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0y7/index.m3u8
-#EXTINF:-1 tvg-id="TCM.cl" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TCM.png" tvg-language="es" group-title="-" audio-track="es",TCM
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Sun Channel HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0pa/index.m3u8
+#EXTINF:-1 tvg-id="TCM.cl" tvg-name="TCM" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TCM
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a10a/index.m3u8
-#EXTINF:-1 tvg-id="TELEMUNDO HD.cl" tvg-name="Telemundo" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Telemundo.png" tvg-language="es" group-title="-" audio-track="es",Telemundo
+#EXTINF:-1 tvg-id="TELEFE HD.cl" tvg-name="TelefØ" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TelefØ
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0t6/index.m3u8
-#EXTINF:-1 tvg-id="TLNovelas.pe" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/tlnovelas-mediano.png" tvg-language="es" group-title="-" audio-track="es",Tlnovelas
+http://190.119.205.14:8000/play/a0tr/index.m3u8
+#EXTINF:-1 tvg-id="TELEMUNDO HD.cl" tvg-name="Telemundo HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Telemundo.png" tvg-language="es" group-title="-" audio-track="es",Telemundo HD
+#EXTVLCOPT:audio-language=es,spa
+http://179.51.160.246:8888/play/a00e/index.m3u8
+#EXTINF:-1 tvg-id="TELESUR.pe" tvg-name="Telesur" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Telesur
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0yt/index.m3u8
+#EXTINF:-1 tvg-id="TLNovelas.pe" tvg-name="Tlnovelas" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Tlnovelas
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0vb/index.m3u8
-#EXTINF:-1 tvg-id="TNT.pe" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TNT%20HD.png" tvg-language="es" group-title="-" audio-track="es",TNT
+#EXTINF:-1 tvg-id="TNT.pe" tvg-name="TNT HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0z3/index.m3u8
-#EXTINF:-1 tvg-id="TNT NOVELAS HD.pe" tvg-name="TNT Novelas HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TNT%20Novelas.png" tvg-language="es" group-title="-" audio-track="es",TNT Novelas HD
+http://190.119.205.14:8000/play/a0v1/index.m3u8
+#EXTINF:-1 tvg-id="TNT NOVELAS HD.pe" tvg-name="TNT Novelas HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT Novelas HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0lt/index.m3u8
-#EXTINF:-1 tvg-id="TNT SERIES HD.pe" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TNT%20Series.png" tvg-language="es" group-title="-" audio-track="es",TNT Series
+#EXTINF:-1 tvg-id="TNT SERIES HD.pe" tvg-name="TNT Series HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT Series HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a0yd/index.m3u8
-#EXTINF:-1 tvg-id="TNT Sports Premium HD.cl" tvg-name="TNT Sports Premiun HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TNT%20HD.png" tvg-language="es" group-title="-" audio-track="es",TNT Sports Premiun HD
+http://190.119.205.14:8000/play/a0vx/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sports Premium HD.cl" tvg-name="TNT Sports Premiun HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT Sports Premiun HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0vh/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast.uy" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Tooncast.png" tvg-language="es" group-title="-" audio-track="es",Tooncast
+#EXTINF:-1 tvg-id="Tooncast.uy" tvg-name="Tooncast" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Tooncast
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0xz/index.m3u8
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perœ" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV%20PERU.png" tvg-language="es" group-title="-" audio-track="es",TV Perœ
+#EXTINF:-1 tvg-id="" tvg-name="TOP MUSIC" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TOP MUSIC
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Perœ" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TV Perœ
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0yp/index.m3u8
-#EXTINF:-1 tvg-id="UNIVERSAL IPTV.cl" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/UNIVERSAL%20CHANNEL.png" tvg-language="es" group-title="-" audio-track="es",UNIVERSAL CHANNEL HD
+#EXTINF:-1 tvg-id="TVN CHILE.pe" tvg-name="TVN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TVN HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0vf/index.m3u8
+#EXTINF:-1 tvg-id="TyC Sports HD.uy" tvg-name="tyc sport" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",tyc sport
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a13v/index.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL IPTV.cl" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",UNIVERSAL CHANNEL HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0ll/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema SD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/UNIVERSAL%20CINEMA.png" tvg-language="es" group-title="-" audio-track="es",Universal Cinema SD
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-name="Universal Cinema SD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Universal Cinema SD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a13r/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universal Comedy SD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/UNIVERSAL%20COMEDY.png" tvg-language="es" group-title="-" audio-track="es",Universal Comedy SD
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-name="UNIVERSAL CINEMA ESTE HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/UNIVERSAL%20CINEMA.png" tvg-language="es" group-title="" audio-track="es",UNIVERSAL CINEMA ESTE HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a13s/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere SD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/UNIVERSAL%20PREMIERE.png" tvg-language="es" group-title="-" audio-track="es",Universal Premiere SD
+http://190.108.90.193:1234/play/a1i6/index.m3u8
+#EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-name="UNIVERSAL COMEDY HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/UNIVERSAL%20COMEDY.png" tvg-language="es" group-title="" audio-track="es",UNIVERSAL COMEDY HD
 #EXTVLCOPT:audio-language=es,spa
-http://190.119.205.14:8000/play/a13q/index.m3u8
-#EXTINF:-1 tvg-id="USA Network.cl" tvg-name="USA" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/USA.png" tvg-language="es" group-title="-" audio-track="es",USA
+http://190.108.90.193:1234/play/a17c/index.m3u8
+#EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-name="UNIVERSAL PREMIERE HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/UNIVERSAL%20PREMIERE.png" tvg-language="es" group-title="" audio-track="es",UNIVERSAL PREMIERE HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.108.90.193:1234/play/a178/index.m3u8
+#EXTINF:-1 tvg-id="USA Network.cl" tvg-name="USA" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",USA
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a107/index.m3u8
-#EXTINF:-1 tvg-id="WARNER.ve" tvg-name="Warner Channel" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/Warner%20Channel.png" tvg-language="es" group-title="-" audio-track="es",Warner Channel
+#EXTINF:-1 tvg-id="WARNER.ve" tvg-name="Warner Channel" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Warner Channel
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0z4/index.m3u8
-#EXTINF:-1 tvg-id="WARNER.ve" tvg-name="Warner TV HD" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/TV+.png" tvg-language="es" group-title="-" audio-track="es",Warner TV HD
+#EXTINF:-1 tvg-id="WARNER.ve" tvg-name="Warner TV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Warner TV HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a0v4/index.m3u8
-#EXTINF:-1 tvg-id="Willax.pe" tvg-name="WILLAX ENC" tvg-logo="https://raw.githubusercontent.com/N24r114/tv-logos/main/WILLAX.png" tvg-language="es" group-title="-" audio-track="es",WILLAX ENC
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Willax
+#EXTVLCOPT:audio-language=es,spa
+http://190.119.205.14:8000/play/a0ys/index.m3u8
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Willax HD
 #EXTVLCOPT:audio-language=es,spa
 http://190.119.205.14:8000/play/a090/index.m3u8
