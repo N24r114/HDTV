@@ -8,6 +8,9 @@ http://38.190.100.202:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="AMC HD.uy" tvg-name="AMC HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AMC HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a096/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AmericaTV HD" tvg-logo="" tvg-language="es" group-title="" audio-track="es",AmericaTV HD
+#EXTVLCOPT:audio-language=es,spa
+http://38.190.100.202:8000/play/a057/index.m3u8
 #EXTINF:-1 tvg-id="Atv.pe" tvg-name="ATV  HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ATV  HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a05k/index.m3u8
