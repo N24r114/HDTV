@@ -7,10 +7,10 @@ http://38.190.100.202:8000/play/a00q/index.m3u8
 http://38.190.100.202:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="AMC.uy" tvg-name="AMC HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AMC HD
 #EXTVLCOPT:audio-language=es,spa
-http://38.190.100.202:8000/play/a096/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="AmericaTV HD" tvg-logo="" tvg-language="es" group-title="" audio-track="es",AmericaTV HD
+http://181.78.9.69:8000/play/a12a/index.m3u8
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America TV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",America TV HD
 #EXTVLCOPT:audio-language=es,spa
-http://38.190.100.202:8000/play/a057/index.m3u8
+http://177.53.152.117:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="Atv.pe" tvg-name="ATV  HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ATV  HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a05k/index.m3u8
@@ -71,9 +71,9 @@ http://38.190.100.202:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR HD.cl" tvg-name="Disney Jr." tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Disney Jr.
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a02h/index.m3u8
-#EXTINF:-1 tvg-id="DistritoComedia.uy" tvg-name="Distrito Comedia" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Distrito Comedia
+#EXTINF:-1 tvg-id="DistritoComedia.uy" tvg-name="Distrito Comedia HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Distrito Comedia HD
 #EXTVLCOPT:audio-language=es,spa
-http://170.239.188.36:4000/play/a0is/index.m3u8
+http://138.118.107.245:8888/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="DEUTSCHE WELLE.pe" tvg-name="DW Espaæol" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",DW Espaæol
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a035/index.m3u8
@@ -127,10 +127,10 @@ http://38.190.100.202:8000/play/a038/index.m3u8
 http://38.190.100.202:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="HBO.uy" tvg-name="HBO HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO HD
 #EXTVLCOPT:audio-language=es,spa
-http://38.190.100.202:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="HBO.uy" tvg-name="HBO HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO HD
+http://179.63.5.46:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2 HD.cl" tvg-name="HBO 2 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO 2 HD
 #EXTVLCOPT:audio-language=es,spa
-http://38.190.100.202:8000/play/a086/index.m3u8
+http://38.190.100.202:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family.uy" tvg-name="HBO Family HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Family HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a089/index.m3u8
@@ -143,9 +143,6 @@ http://38.190.100.202:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="HBO XTREME HD.cl" tvg-name="HBO Xtreme HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Xtreme HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="HBO 2 HD.cl" tvg-name="HBO2 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO2 HD
-#EXTVLCOPT:audio-language=es,spa
-http://38.190.100.202:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="HISTORY CHANNEL HD.cl" tvg-name="History Channel HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",History Channel HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a01y/index.m3u8
@@ -167,9 +164,9 @@ http://38.190.100.202:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="MEGA HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",MEGA HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MI MUSICAROMANTICA" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",MI MUSICAROMANTICA
+#EXTINF:-1 tvg-id="" tvg-name="MI MUSICA PERU" tvg-logo="" tvg-language="es" group-title="" audio-track="es",MI MUSICA PERU
 #EXTVLCOPT:audio-language=es,spa
-http://38.190.100.202:8000/play/a07n/index.m3u8
+http://38.210.3.64:8090/play/a0gg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIMUSICA REGUETON" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",MIMUSICA REGUETON
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a07k/index.m3u8
@@ -242,6 +239,9 @@ http://38.190.100.202:8000/play/a058/index.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL IPTV.cl" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",UNIVERSAL CHANNEL HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Univision HD
+#EXTVLCOPT:audio-language=es,spa
+http://179.51.160.246:8888/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="USA Network.cl" tvg-name="USA" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",USA
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a039/index.m3u8
