@@ -1,0 +1,379 @@
+#EXTM3U url-tvg="" x-tvg-url=""
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",A&E HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AMC
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AMC HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC Series" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AMC Series
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ATV
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AXN
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AXN HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Adult Swim
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America TV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",America TV HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Animal Planet
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Animal Planet
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Antena 3
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Atres Series HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BETHEL TV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",BETHEL TV
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Baby TV
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CHV HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHV Noticias" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CHV Noticias
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CNN Chile
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a047/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Espaæol" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CNN Espaæol
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",CNN International
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Canal 13
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Canal 13 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 24 Horas" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Canal 24 Horas
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Cartoon Network HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Cartoonito
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Cinecanal
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Cinecanal HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Cinemax
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Clover" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Clover
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Comedy Central HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHE HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",DHE HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW Espaæol" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",DW Espaæol
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",De Pelicula
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel  HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Channel  HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery H&H
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a05r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Kids
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Kids HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Science
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Theater HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery Turbo
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Discovery World HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Disney Channel
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr." tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Disney Jr.
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Distrito Comedia
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment TV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",E! Entertainment TV
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 2 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 2 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 3 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a036/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 4 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 5 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 6 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 7 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN 7 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03l/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ESPN Premium HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",El Gourmet
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",El Gourmet HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Enlace
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Exitosa TV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Exitosa TV
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",FX HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film&Arts" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Film&Arts
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Food Network
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Global" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Global
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a065/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden Edge" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Golden Edge
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golden HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Golden HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Golf Channel
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Family HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Mundi
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a06b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO POP HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Plus
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Signature
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a06a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HBO Xtreme HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HEI HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HEI HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HGTV
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLA TV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",HOLA TV HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",History 2
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",History Channel HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Home & Health HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Home & Health HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ID HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Kanal D Drama
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a05n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L1" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",L1
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L1 MAX" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",L1 MAX
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",La Red
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Las Estrellas HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Latina
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Lifetime
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Love Nature
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",MEGA HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",MTV HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Mega
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mega 2 HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Mega 2 HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Movistar Deportes
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Nat Geo HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr." tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Nick Jr.
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Nickelodeon HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panamericana" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Panamericana
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a062/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Pasiones HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",RPP
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Sony HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Sony Movies
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Space HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Channel HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Star Channel HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Studio Universal HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Sun Channel HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TCM
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a054/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TLC
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Novelas HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT Novelas HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a035/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT SPORTS
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT Series
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT Series HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports Premiun HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT Sports Premiun HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Perœ" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TV Perœ
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a05h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TVN HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teleamazonas" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Teleamazonas
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TelefØ" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TelefØ
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Telemundo
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tlnovelas" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Tlnovelas
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Tooncast
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",UNIVERSAL CHANNEL
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",UNIVERSAL CHANNEL HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a02q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",USA
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a051/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Warner TV HD
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Willax
+#EXTVLCOPT:audio-language=es,spa
+http://177.53.152.117:8000/play/a05k/index.m3u8
