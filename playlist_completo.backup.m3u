@@ -17,7 +17,7 @@ http://38.190.100.202:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="Atreseries.pe" tvg-name="Atres Series" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Atres Series
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a09s/index.m3u8
-#EXTINF:-1 tvg-id="Atv.pe" tvg-name="ATV HD " tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ATV HD 
+#EXTINF:-1 tvg-id="Atv.pe" tvg-name="ATV HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",ATV HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="AXN HD.cl" tvg-name="AXN HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",AXN HD
@@ -95,6 +95,9 @@ http://38.190.100.202:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="DISNEY JUNIOR HD.cl" tvg-name="Disney Jr." tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Disney Jr.
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="" tvg-language="es" group-title="" audio-track="es",Distrito Comedia
+#EXTVLCOPT:audio-language=es,spa
+http://190.108.80.138:8000/play/a0gd/index.m3u8
 #EXTINF:-1 tvg-id="DEUTSCHE WELLE.pe" tvg-name="DW Espaæol" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",DW Espaæol
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a035/index.m3u8
@@ -152,7 +155,7 @@ http://38.190.100.202:8000/play/a09l/index.m3u8
 #EXTINF:-1 tvg-id="FX CHILE.cl" tvg-name="FX HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",FX HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a029/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-name="Global HD " tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Global HD 
+#EXTINF:-1 tvg-id="GlobalTv.pe" tvg-name="Global HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Global HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="GOLDEN HD.co" tvg-name="Golden HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Golden HD
@@ -251,9 +254,15 @@ http://38.190.100.202:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="TCM.cl" tvg-name="TCM" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TCM
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a07c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TeleLima HD" tvg-logo="" tvg-language="es" group-title="" audio-track="es",TeleLima HD
+#EXTVLCOPT:audio-language=es,spa
+http://190.8.132.19:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="TELEMUNDO HD.cl" tvg-name="Telemundo HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",Telemundo HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tlnovelas" tvg-logo="" tvg-language="es" group-title="" audio-track="es",Tlnovelas
+#EXTVLCOPT:audio-language=es,spa
+http://190.8.132.19:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="TNT.pe" tvg-name="TNT HD" tvg-logo="" tvg-language="es" group-title="-" audio-track="es",TNT HD
 #EXTVLCOPT:audio-language=es,spa
 http://38.190.100.202:8000/play/a020/index.m3u8
